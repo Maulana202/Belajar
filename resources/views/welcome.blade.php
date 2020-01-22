@@ -85,7 +85,7 @@
                 </div>
 
                 <div class="links">
-                    <a class="text-primary" href="/home">Data</a>
+                    <a class="text-primary" href="/home">Menu Halaman</a>
            
                 </div>
             </div>
