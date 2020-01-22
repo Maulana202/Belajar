@@ -11,6 +11,15 @@
 |
 */
 
+Route::get('/home', function () {
+    return view('belajar');
+});
+// Route::get('/belajar', function () {
+//     return view('belajar');
+// });
+Route::get('/belajar2', function () {
+    return view('belajar2');
+});
 Route::get('/', function () {
     return view('welcome');
 });
